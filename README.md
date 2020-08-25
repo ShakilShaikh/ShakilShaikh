@@ -1,6 +1,6 @@
 ### Hi, it's Shakil
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShakilShaikh&show_icons=true&theme=dark&text_color=2cbe4e&title_color=2cbe4e)
 <!--
 **ShakilShaikh/ShakilShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
