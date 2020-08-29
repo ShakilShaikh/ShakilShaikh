@@ -1,5 +1,17 @@
 ### Hi, it's Shakil
 
+Programming Languages that I know:<br>
+- Python
+- C++
+- C#
+- Java
+- JavaScript
+- PHP
+<br>
+Database that I have used:
+- MySQL
+- Oracle
+
 <img src="https://media.giphy.com/media/gZUpiqnqehHDa/giphy.gif"/><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShakilShaikh&show_icons=true&theme=merko)
 <!--
