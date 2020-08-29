@@ -1,6 +1,6 @@
 ### Hi, it's Shakil
 
-Programming Languages that I know:<br>
+#### Programming Languages that I know:<br>
 - Python
 - C++
 - C#
@@ -8,7 +8,8 @@ Programming Languages that I know:<br>
 - JavaScript
 - PHP
 <br>
-Database that I have used:
+
+#### Database that I have used:<br>
 - MySQL
 - Oracle
 
