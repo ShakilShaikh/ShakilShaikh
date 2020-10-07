@@ -14,7 +14,7 @@
 - Oracle
 
 
-<img src="https://media.giphy.com/media/gZUpiqnqehHDa/giphy.gif"/><br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShakilShaikh&show_icons=true&theme=merko)
 <!--
 **ShakilShaikh/ShakilShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ark&text_color=2cbe4e&title_color=2cbe4e
