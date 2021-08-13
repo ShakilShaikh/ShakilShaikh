@@ -7,7 +7,7 @@
 <a href="https://twitter.com/ShakilIShaikh"><img align="left" alt="ShakilIShaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/shakil-ibne-shaikh-982001b8/"><img align="left" alt="shakilshaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/shakil_shaikh07/"><img align="left" alt="shakil_shaikh07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
+<br>
 
 #### Programming Languages that I know:<br>
 - Python
