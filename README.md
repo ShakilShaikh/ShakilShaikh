@@ -2,11 +2,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<a href="https://www.linkedin.com/in/shakil-ibne-shaikh-982001b8/">[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]</a>
-<a href="https://www.instagram.com/shakil_shaikh07/">[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]</a>
+<a href="https://shakilslab.me">[<img align="left" alt="shakilslab.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]</a>
+<a href="https://www.youtube.com/channel/UCM-UWf4SzkZXp6piFbDEYiA">[<img align="left" alt="ShakilIShaikh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]</a>
+<a href="https://twitter.com/ShakilIShaikh">[<img align="left" alt="ShakilIShaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]</a>
+<a href="https://www.linkedin.com/in/shakil-ibne-shaikh-982001b8/">[<img align="left" alt="shakilshaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]</a>
+<a href="https://www.instagram.com/shakil_shaikh07/">[<img align="left" alt="shakil_shaikh07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]</a>
 
 
 #### Programming Languages that I know:<br>
