@@ -9,8 +9,6 @@ I'm on a journey to explore the endless possibilities of technology while having
 ### Connect with Me:
 
 [![Website](https://img.shields.io/badge/shakilslab.me-Explore-007ACC?style=flat&logo=globe)](https://shakilslab.me)
-[![YouTube](https://img.shields.io/badge/ShakilIShaikh-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCM-UWf4SzkZXp6piFbDEYiA)
-[![Twitter](https://img.shields.io/badge/ShakilIShaikh-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/shakilshaikh-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shakil-ibne-shaikh-982001b8/)
 [![Instagram](https://img.shields.io/badge/shakil_shaikh07-Follow-E4405F?style=flat&logo=instagram)](https://www.instagram.com/shakil_shaikh07/)
 
